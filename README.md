@@ -21,21 +21,24 @@ The Corpus of Singapore English Messages (CoSEM) is a monitor corpus of online t
 
 Please check out [our overview paper](https://github.com/wdwgonzales/CoSEM/tree/main/Overview%20paper).
 <br />
+<br />
 
 
 #### Personal Data Scrubbing
 We used the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package to scrub the public version of the corpus.
 <br />
-
+<br />
 
 #### Corpus metadata or tag format
 Every line of utterance has been tagged with an identifier tag. The tag format allows for easy identification of a line of utterance within the corpus, and for easy interpretation of relevant metadata. For example, the tag < 17CF15-40341-20CHF-2016 > shows that the utterance was collected in the year 2017 by a Chinese female with identification number 15; the utterance is line 40341 in the corpus; and the line was produced by a 20-year-old Chinese Singaporean female in 2016.
 
 <br />
+<br />
 
 #### Corpus Version
 The current version stands at 6.9 million words (as of November 2, 2022); however, the version released to the public - fully anonymized using the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package - is roughly 2 million words. We hope to release the scrubbed corpus incrementally over the next few years.
 
+<br />
 <br />
 
 ### Team
