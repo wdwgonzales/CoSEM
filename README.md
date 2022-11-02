@@ -48,7 +48,7 @@ The current version stands at 6.9 million words (as of November 2, 2022); howeve
 ### Overview paper
 We have published a paper that explains the motivations behind developing a new corpus for the investigation of CSE in 2021. It documents the process of compiling and organizing CoSEM and describes the corpus’s initial structure and composition. We further discuss the social variables used in tagging the data, as well as ethical challenges, advantages, and disadvantages unique to online message datasets. In addition, we present preliminary analyses of two selected CSE features: (1) the Hokkien-derived expression (bo)jio and (2) sentence-final adverbs (already, also, only). We concluded the article with notes on future directions.
 
-The paper can be found here.
+The paper can be found [here](https://github.com/wdwgonzales/CoSEM/tree/main/Overview%20paper).
 
 
 
