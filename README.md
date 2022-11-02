@@ -1,5 +1,7 @@
 # The Corpus of Singapore English Messages (CoSEM)
 
+![alt text](https://github.com/wdwgonzales/CoSEM]/logo.jpg?raw=true)
+
 
 ### Overview
 The Corpus of Singapore English Messages (CoSEM) is a monitor corpus of online text messages collected between 2016 and 2022, compiled and managed by a group of scholars who share an interest in Colloquial Singapore English (CSE) research.
