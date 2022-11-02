@@ -48,6 +48,7 @@ The current version stands at 6.9 million words (as of November 2, 2022); howeve
 - [Jun Jie LIM](https://limjunjie.com "Jun Jie LIM") (University of California, San Diego, USA)
 
 <br />
+<br />
 
 
 ### Overview paper
@@ -76,7 +77,11 @@ Gonzales, Wilkinson Daniel Wong, Mie Hiramoto, Jakob Leimgruber, Jun Jie Lim. 20
 	year = {2021},
 }
 ```
+
 <br />
+<br />
+
+
 ### Related papers
 We would highly appreciate it if you can cite these alongside the overview paper, if you decide to use or mention our corpus:
 
