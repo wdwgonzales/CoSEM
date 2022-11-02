@@ -63,7 +63,14 @@ The paper can be found [here](https://github.com/wdwgonzales/CoSEM/tree/main/Ove
 
 ##### To Cite
 Please cite the overview paper if you use our corpus or mention it in your work.
+
+<br />
+<br />
+
 Gonzales, Wilkinson Daniel Wong, Mie Hiramoto, Jakob Leimgruber, Jun Jie Lim. 2021. The Corpus of Singapore English Messages (CoSEM). _World Englishes_, Wiley. https://doi.org/10.1111/weng.12534
+
+<br />
+<br />
 
 ```
 @article{gonzales_corpus_2021,
