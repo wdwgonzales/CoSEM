@@ -145,6 +145,7 @@ Principal Investigator: Assoc. Prof. Mie Hiramoto
 - Luqman Aqil Bin ROZMAN
 - YEO Rei-Chi Lauren
 <br />
+
 ##### National University of Singapore Undergraduate Research Opportunities (UROP) module
 *(In alphabetical order of their family names, in upper case) *
 - CHANG Wei Xing
