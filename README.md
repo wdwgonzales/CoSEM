@@ -19,7 +19,7 @@ The Corpus of Singapore English Messages (CoSEM) a monitor corpus of online text
 
 #### Collection methodology
 
-Please check out our overview paper.
+Please check out [our overview paper](https://github.com/wdwgonzales/CoSEM/tree/main/Overview%20paper).
 
 
 
