@@ -12,6 +12,7 @@ The Corpus of Singapore English Messages (CoSEM) a monitor corpus of online text
 	- year of utterance
 - in hierarchical text format: primed for concordance software including AntConc, CasualConc
 
+\n
 
 ##### Collection methodology
 Please check out our overview paper.
