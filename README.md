@@ -59,7 +59,7 @@ The paper can be found [here](https://github.com/wdwgonzales/CoSEM/tree/main/Ove
 
 ##### To Cite
 Please cite the overview paper if you use our corpus or mention it in your work.
-Gonzales, Wilkinson Daniel Wong, Mie Hiramoto, Jakob Leimgruber, Jun Jie Lim. 2021. The Corpus of Singapore English Messages (CoSEM). *World Englishes*, Wiley. https://doi.org/10.1111/weng.12534
+Gonzales, Wilkinson Daniel Wong, Mie Hiramoto, Jakob Leimgruber, Jun Jie Lim. 2021. The Corpus of Singapore English Messages (CoSEM). _World Englishes_, Wiley. https://doi.org/10.1111/weng.12534
 
 ```
 @article{gonzales_corpus_2021,
@@ -79,12 +79,12 @@ Gonzales, Wilkinson Daniel Wong, Mie Hiramoto, Jakob Leimgruber, Jun Jie Lim. 20
 ### Related papers
 We would highly appreciate it if you can cite these alongside the overview paper, if you decide to use or mention our corpus:
 
-1. Gonzales, Wilkinson Daniel Wong, Mie Hiramoto, Jakob Leimgruber, Jun Jie Lim. 2022. Is it in Colloquial Singapore English: What variation can tell us about its conventions and development. *English Today*, Cambridge University Press. https://www.doi.org/10.1017/S0266078422000141
+1. Gonzales, Wilkinson Daniel Wong, Mie Hiramoto, Jakob Leimgruber, Jun Jie Lim. 2022. Is it in Colloquial Singapore English: What variation can tell us about its conventions and development. _English Today_, Cambridge University Press. https://www.doi.org/10.1017/S0266078422000141
 
-2. Leimgruber, Jakob, Jun Jie Lim,  Wilkinson Daniel Wong Gonzales, Mie Hiramoto. 2020. Ethnic and gender variation in the use of Colloquial Singapore English discourse particles, *English Language and Linguistics*, Cambridge University Press.
+2. Leimgruber, Jakob, Jun Jie Lim,  Wilkinson Daniel Wong Gonzales, Mie Hiramoto. 2020. Ethnic and gender variation in the use of Colloquial Singapore English discourse particles, _English Language and Linguistics_, Cambridge University Press.
 https://doi.org/10.1017/S1360674320000453
 
-3. Hiramoto, Mie,  Wilkinson Daniel Wong Gonzales, Jakob Leimgruber, Jessica Choo, Junjie Lim. 2022. From Malay to Colloquial Singapore English: A case study of sentence-final particle sia. In A. Ngefac, H. Wolf & T. Hoffmann (eds.) *World Englishes and creole languages today: Existing paradigms and current trends in action*, 117-130. Lincom. https://lincom-shop.eu/LSEL-24-World-Englishes-and-Creole-Languages-Today/en
+3. Hiramoto, Mie,  Wilkinson Daniel Wong Gonzales, Jakob Leimgruber, Jessica Choo, Junjie Lim. 2022. From Malay to Colloquial Singapore English: A case study of sentence-final particle sia. In A. Ngefac, H. Wolf & T. Hoffmann (eds.) _World Englishes and creole languages today: Existing paradigms and current trends in action_, 117-130. Lincom. https://lincom-shop.eu/LSEL-24-World-Englishes-and-Creole-Languages-Today/en
 
 ```
 
@@ -137,7 +137,7 @@ Principal Investigator: Assoc. Prof. Mie Hiramoto
 <br />
 
 ##### Research Assistants
-*(In alphabetical order of their family names, in upper case) *
+_(In alphabetical order of their family names, in upper case)_
 
 - CHOO Xue Ming Jessica
 - Sydelle D SOUZA
@@ -152,7 +152,7 @@ Principal Investigator: Assoc. Prof. Mie Hiramoto
 <br />
 
 ##### National University of Singapore Undergraduate Research Opportunities (UROP) module
-*(In alphabetical order of their family names, in upper case) *
+_(In alphabetical order of their family names, in upper case)_
 
 - CHANG Wei Xing
 - Athena CHOO
