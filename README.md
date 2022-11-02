@@ -134,8 +134,11 @@ R-103-000-167-115 (2019-2022)
 Principal Investigator: Assoc. Prof. Mie Hiramoto
 
 <br />
+<br />
+
 ##### Research Assistants
 *(In alphabetical order of their family names, in upper case) *
+
 - CHOO Xue Ming Jessica
 - Sydelle D SOUZA
 - Aura Valentine EDEN
@@ -144,10 +147,13 @@ Principal Investigator: Assoc. Prof. Mie Hiramoto
 - PAK Yongkang Vincent
 - Luqman Aqil Bin ROZMAN
 - YEO Rei-Chi Lauren
+
+<br />
 <br />
 
 ##### National University of Singapore Undergraduate Research Opportunities (UROP) module
 *(In alphabetical order of their family names, in upper case) *
+
 - CHANG Wei Xing
 - Athena CHOO
 - LIN Taohai
