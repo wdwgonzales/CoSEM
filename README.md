@@ -1,6 +1,6 @@
 # The Corpus of Singapore English Messages (CoSEM)
 
-![alt text](https://github.com/wdwgonzales/CoSEM/logo.jpg?raw=true)
+![alt text](https://github.com/wdwgonzales/CoSEM/logo.png?raw=true)
 
 
 ### Overview
