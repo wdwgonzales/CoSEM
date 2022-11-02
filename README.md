@@ -16,14 +16,21 @@ The Corpus of Singapore English Messages (CoSEM) a monitor corpus of online text
 ##### Collection methodology
 Please check out our overview paper.
 
+
+
 ##### Personal Data Scrubbing
 We used the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package to scrub the public version of the corpus.
+
+
 
 ##### Corpus metadata or tag format
 Every line of utterance has been tagged with an identifier tag. The tag format allows for easy identification of a line of utterance within the corpus, and for easy interpretation of relevant metadata. For example, the tag < 17CF15-40341-20CHF-2016 > shows that the utterance was collected in the year 2017 by a Chinese female with identification number 15; the utterance is line 40341 in the corpus; and the line was produced by a 20-year-old Chinese Singaporean female in 2016.
 
+
+
 ##### Corpus Version
 The current version stands at 6.9 million words (as of November 2, 2022); however, the version released to the public - fully anonymized using the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package - is roughly 2 million words. We hope to release the scrubbed corpus incrementally over the next few years.
+
 
 
 ### Team
@@ -32,10 +39,12 @@ The current version stands at 6.9 million words (as of November 2, 2022); howeve
 - [Asst. Prof. Wilkinson Daniel Wong GONZALES](https://www.wdwgonzales.com "Asst. Prof. Wilkinson Daniel Wong GONZALES") (The Chinese University of Hong Kong, Hong Kong SAR, People's Republic of China) - Database Manager, Data Analyst
 - [Jun Jie LIM](https://limjunjie.com "Jun Jie LIM") (University of California, San Diego, USA)
 
+
 ### Overview paper
 We have published a paper that explains the motivations behind developing a new corpus for the investigation of CSE in 2021. It documents the process of compiling and organizing CoSEM and describes the corpus’s initial structure and composition. We further discuss the social variables used in tagging the data, as well as ethical challenges, advantages, and disadvantages unique to online message datasets. In addition, we present preliminary analyses of two selected CSE features: (1) the Hokkien-derived expression (bo)jio and (2) sentence-final adverbs (already, also, only). We concluded the article with notes on future directions.
 
 The paper can be found here.
+
 
 
 ##### To Cite
