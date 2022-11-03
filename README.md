@@ -28,6 +28,18 @@ Please check out [our overview paper](https://github.com/wdwgonzales/CoSEM/tree/
 
 #### Personal Data Scrubbing
 We used the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package to scrub the public version of the corpus.
+
+<br />
+
+Based on our initial assessment, the scrubber does its work for the most part. However, we note that it scrubs non-name information that might be important for analyses. For example, (a) below becomes (b). Furthermore, we observed that it only scrubs information from the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package. As such, we recommend that you exercise caution in using the public version of the corpus.
+
+<br />
+
+```
+(a) <COSEM:18MF02-9431-23CHF-2014> Why u still dunwan go homr
+(b) <COSEM:18MF02-9431-23CHF-2014> Why u still {{NAME}} go {{NAME}}
+```
+
 <br />
 <br />
 
