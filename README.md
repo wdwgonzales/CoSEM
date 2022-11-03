@@ -65,6 +65,14 @@ Every line of utterance has been tagged with an identifier tag. The tag format a
 The current version stands at 6.9 million words (as of November 2, 2022); however, the version released to the public - anonymized using the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package as well as customized `RegEx` scripts - is roughly 2 million words. We hope to release the scrubbed corpus incrementally over the next few years.
 
 <br />
+
+##### Plans for future versions
+
+- more targetted scrubs
+- reduction of mis-scrubbed tokens
+- increased size
+
+<br />
 <br />
 
 ### Team
