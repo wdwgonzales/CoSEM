@@ -48,9 +48,9 @@ Please check out [our overview paper](https://github.com/wdwgonzales/CoSEM/tree/
 
 #### Personal Data Scrubbing
 
-Ensuring the privacy for messaging data is paramount, and as such, we adopt a strict standard in dealing with sensitive data in the message itself. We utilize the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package in Python to remove sensitive data as much as we can. For example, any detected email address will be replaced by the code {{EMAIL}}.This process gives at least some protection against publishing sensitive data. While we remove such conﬁdential information, it is generally impossible to remove all sensitive data with any computation-based tool, especially one trained with machine learning methods like scrubadub. We did this to lower the anxiety of contributors and protect their privacy.
+Ensuring the privacy for messaging data is paramount, and as such, we adopt a strict standard in dealing with sensitive data in the message itself. We utilize the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package in Python as well as a customized RegEx script to remove sensitive data as much as we can. For example, any detected email address will be replaced by the code {{EMAIL}}. This process gives at least some protection against publishing sensitive data. While we remove such conﬁdential information, it is generally impossible to remove all sensitive data with any custom RegEx-based script or computation-based, especially one trained with machine learning methods like scrubadub. We did this to lower the anxiety of contributors and protect their privacy.
 
-Credits to Tao Chen and Min-Yen Kan for the disclaimer template.
+We thank Tao Chen and Min-Yen Kan for the disclaimer template.
 
 <br />
 
@@ -62,7 +62,7 @@ Every line of utterance has been tagged with an identifier tag. The tag format a
 <br />
 
 #### Corpus Version
-The current version stands at 6.9 million words (as of November 2, 2022); however, the version released to the public - fully anonymized using the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package - is roughly 2 million words. We hope to release the scrubbed corpus incrementally over the next few years.
+The current version stands at 6.9 million words (as of November 2, 2022); however, the version released to the public - anonymized using the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package as well as customized `RegEx` scripts - is roughly 2 million words. We hope to release the scrubbed corpus incrementally over the next few years.
 
 <br />
 <br />
