@@ -17,6 +17,26 @@ The Corpus of Singapore English Messages (CoSEM) is a monitor corpus of online t
 	- year of utterance
 - in hierarchical text format: primed for concordance software including AntConc, CasualConc
 <br />
+<br />
+
+### Disclaimer
+The public version of the CoSEM (see 'Corpus Version' below) is a "sample" version with limitations. For example, based on our initial assessment, the scrubber does its work for the most part. However, we note that it scrubs non-name information that might be important for analyses. For example, (a) below becomes (b). Furthermore, we observed that it only scrubs information from the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package. As such, we recommend that you exercise caution in using the public version of the corpus. We put forward our intention of contributing to the scholarly community by showing whatever we can at this time. We thank you for your patience.
+
+<br />
+
+```
+(a) <COSEM:18MF02-9431-23CHF-2014> Why u still dunwan go homr
+(b) <COSEM:18MF02-9431-23CHF-2014> Why u still {{NAME}} go {{NAME}}
+```
+
+<br />
+<br />
+
+
+
+<br />
+
+### Overview
 
 
 #### Collection methodology
@@ -31,17 +51,6 @@ We used the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub
 
 <br />
 
-Based on our initial assessment, the scrubber does its work for the most part. However, we note that it scrubs non-name information that might be important for analyses. For example, (a) below becomes (b). Furthermore, we observed that it only scrubs information from the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package. As such, we recommend that you exercise caution in using the public version of the corpus.
-
-<br />
-
-```
-(a) <COSEM:18MF02-9431-23CHF-2014> Why u still dunwan go homr
-(b) <COSEM:18MF02-9431-23CHF-2014> Why u still {{NAME}} go {{NAME}}
-```
-
-<br />
-<br />
 
 #### Corpus metadata or tag format
 Every line of utterance has been tagged with an identifier tag. The tag format allows for easy identification of a line of utterance within the corpus, and for easy interpretation of relevant metadata. For example, the tag < 17CF15-40341-20CHF-2016 > shows that the utterance was collected in the year 2017 by a Chinese female with identification number 15; the utterance is line 40341 in the corpus; and the line was produced by a 20-year-old Chinese Singaporean female in 2016.
