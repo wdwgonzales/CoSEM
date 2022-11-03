@@ -47,7 +47,10 @@ Please check out [our overview paper](https://github.com/wdwgonzales/CoSEM/tree/
 
 
 #### Personal Data Scrubbing
-We used the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package to scrub the public version of the corpus.
+
+Ensuring the privacy for messaging data is paramount, and as such, we adopt a strict standard in dealing with sensitive data in the message itself. We utilize the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package in Python to remove sensitive data as much as we can. For example, any detected email address will be replaced by the code {{EMAIL}}.This process gives at least some protection against publishing sensitive data. While we remove such conﬁdential information, it is generally impossible to remove all sensitive data with any computation-based tool, especially one trained with machine learning methods like scrubadub. We did this to lower the anxiety of contributors and protect their privacy.
+
+Credits to Tao Chen and Min-Yen Kan for the disclaimer template.
 
 <br />
 
