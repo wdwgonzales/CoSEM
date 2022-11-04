@@ -124,7 +124,7 @@ Gonzales, Wilkinson Daniel Wong, Mie Hiramoto, Jakob Leimgruber, Jun Jie Lim. 20
 
 
 ### Related papers
-We would highly appreciate it if you can cite these alongside the overview paper, if you decide to use or mention our corpus:
+We would highly appreciate it if you can cite these papers ([available here](https://github.com/wdwgonzales/CoSEM/tree/main/Related%20papers)) alongside the overview paper, if you decide to use or mention our corpus:
 
 1. Gonzales, Wilkinson Daniel Wong, Mie Hiramoto, Jakob Leimgruber, Jun Jie Lim. 2022. Is it in Colloquial Singapore English: What variation can tell us about its conventions and development. _English Today_, Cambridge University Press. https://www.doi.org/10.1017/S0266078422000141
 
