@@ -186,6 +186,7 @@ Principal Investigator: Assoc. Prof. Mie Hiramoto
 ##### Research Assistants
 _(In alphabetical order of their family names, in upper case)_
 
+- Latané BULLOCK
 - CHOO Xue Ming Jessica
 - Sydelle D SOUZA
 - Aura Valentine EDEN
