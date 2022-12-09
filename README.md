@@ -80,6 +80,7 @@ The current version stands at 6.9 million words (as of November 2, 2022); howeve
 - [Prof. Jakob LEIMGRUBER](https://jakobleimgruber.ch/en/home "Prof. Jakob LEIMGRUBER") (University of Regensburg, Germany)
 - [Asst. Prof. Wilkinson Daniel Wong GONZALES](https://www.wdwgonzales.com "Asst. Prof. Wilkinson Daniel Wong GONZALES") (The Chinese University of Hong Kong, Hong Kong SAR, People's Republic of China) - Database Manager, Data Analyst
 - [Jun Jie LIM](https://limjunjie.com "Jun Jie LIM") (University of California, San Diego, USA)
+- Mohamed Hafiz Bin MOHAMED JURAIMI (National University of Singapore, Singapore)
 
 <br />
 <br />
