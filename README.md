@@ -100,23 +100,26 @@ Please cite the overview paper if you use our corpus or mention it in your work.
 <br />
 <br />
 
-Gonzales, Wilkinson Daniel Wong, Mie Hiramoto, Jakob Leimgruber, Jun Jie Lim. 2021. The Corpus of Singapore English Messages (CoSEM). _World Englishes_, Wiley. https://doi.org/10.1111/weng.12534
+Gonzales, Wilkinson Daniel Wong.; Mie Hiramoto.; Jakob R.E. Leimgruber.; and Jun Jie Lim. 2023. The Corpus of Singapore English Messages (CoSEM). World Englishes 42.371–388. doi:10.1111/weng.12534.
 
 <br />
 <br />
 
 ```
-@article{gonzales_corpus_2021,
+@article{gonzales_corpus_2023,
 	title = {The {Corpus} of {Singapore} {English} {Messages} ({CoSEM})},
+	volume = {42},
+	copyright = {CC0 1.0 Universal Public Domain Dedication},
 	issn = {0883-2919, 1467-971X},
 	url = {https://onlinelibrary.wiley.com/doi/10.1111/weng.12534},
 	doi = {10.1111/weng.12534},
 	language = {en},
+	number = {2},
 	urldate = {2022-02-19},
 	journal = {World Englishes},
-	author = {Gonzales, Wilkinson Daniel Wong and Hiramoto, Mie and R. E. Leimgruber, Jakob and Lim, Jun Jie},
-	month = feb,
-	year = {2021},
+	author = {Gonzales, Wilkinson Daniel Wong and Hiramoto, Mie and Leimgruber, Jakob R.E. and Lim, Jun Jie},
+	year = {2023},
+	pages = {371--388},
 }
 ```
 
