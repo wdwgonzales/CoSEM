@@ -4,7 +4,7 @@
 
 
 ### Overview
-The Corpus of Singapore English Messages (CoSEM) is a monitor corpus of online text messages collected between 2016 and 2022, compiled and managed by a group of scholars who share an interest in Colloquial Singapore English (CSE) research.
+The Corpus of Singapore English Messages (CoSEM) is a corpus of online text messages collected between 2016 and 2022, compiled and managed by a group of scholars who share an interest in Colloquial Singapore English (CSE) research.
 <br />
 
 #### Features
@@ -20,7 +20,7 @@ The Corpus of Singapore English Messages (CoSEM) is a monitor corpus of online t
 <br />
 
 ### Disclaimer
-The public version of the CoSEM (see 'Corpus Version' below) is a "sample" version with limitations. For example, based on our initial assessment, the scrubber does its work for the most part. However, we note that it scrubs non-name information that might be important for analyses. For example, (a) below becomes (b). Furthermore, we observed that it only scrubs information from the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package. As such, we recommend that you exercise caution in using the public version of the corpus. We put forward our intention of contributing to the scholarly community by showing whatever we can at this time. We thank you for your patience.
+The public version of the CoSEM (see 'Corpus Version' below) has some limitations. For example, based on our initial assessment, the scrubber does its work for the most part. However, we note that it scrubs non-name information that might be important for analyses. For example, (a) below becomes (b). Furthermore, we observed that it only scrubs information from the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package. As such, we recommend that you exercise caution in using the public version of the corpus. We put forward our intention of contributing to the scholarly community by showing whatever we can at this time. We thank you for your patience.
 
 <br />
 
@@ -48,7 +48,7 @@ Please check out [our overview paper](https://github.com/wdwgonzales/CoSEM/tree/
 
 #### Personal Data Scrubbing
 
-Ensuring the privacy for messaging data is paramount, and as such, we adopt a strict standard in dealing with sensitive data in the message itself. We utilize the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package in Python as well as a customized RegEx script to remove sensitive data as much as we can. For example, any detected email address will be replaced by the code {{EMAIL}}. This process gives at least some protection against publishing sensitive data. While we remove such conﬁdential information, it is generally impossible to remove all sensitive data with any custom RegEx-based script or computation-based, especially one trained with machine learning methods like scrubadub. We did this to lower the anxiety of contributors and protect their privacy.
+Ensuring the privacy for messaging data is paramount, and as such, we try our best to adopt a strict standard in dealing with sensitive data in the message itself. We utilize the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package in Python as well as a customized RegEx script to remove sensitive data as much as we can. For example, any detected email address will be replaced by the code {{EMAIL}}. This process gives at least some protection against publishing sensitive data. While we remove such conﬁdential information, it is generally impossible to remove all sensitive data with any custom RegEx-based script or computation-based, especially one trained with machine learning methods like scrubadub. We did this to lower the anxiety of contributors and protect their privacy.
 
 We thank Tao Chen and Min-Yen Kan for the disclaimer template.
 
@@ -62,7 +62,7 @@ Every line of utterance has been tagged with an identifier tag. The tag format a
 <br />
 
 #### Corpus Version
-The current version stands at 6.9 million words (as of November 2, 2022); however, the version released to the public - anonymized using the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package as well as customized `RegEx` scripts - is roughly 2 million words. We hope to release the scrubbed corpus incrementally over the next few years.
+The current public version stands at 10.9 million tokens (as of September 17, 2023). It is anonymized using the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package as well as customized `RegEx` scripts. As with any type of automated scrubbing, there is a chance that some utterances are not properly scrubbed, in which case, we ask the corpus users to exercise tact in using the data, anonymizing unscrubbed private information if they intend to present examples that contain them. 
 
 <br />
 
