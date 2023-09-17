@@ -66,7 +66,7 @@ The current public version stands at 10.9 million tokens (as of September 17, 20
 
 <br />
 
-The corpus can be accessed [here](https://github.com/wdwgonzales/CoSEM/blob/main/Corpus/COSEM_v4_publicrelease_SEP172023.zip). You need to click on 'Download' from the upper right menu.
+The corpus can be accessed [here](https://github.com/wdwgonzales/CoSEM/blob/main/Corpus/COSEM_v4_publicrelease_SEP172023.zip). You need to click on 'Download' from the upper right menu or "View raw" in the center. The file is in `zip` format. It needs to be decompressed/unzipped before use.
 
 <br />
 
