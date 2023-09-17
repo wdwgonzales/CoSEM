@@ -41,7 +41,7 @@ The public version of the CoSEM (see 'Corpus Version' below) has some limitation
 
 #### Collection methodology
 
-Please check out [our overview paper]([https://github.com/wdwgonzales/CoSEM/tree/main/Overview%20paper](https://github.com/wdwgonzales/CoSEM/blob/38051b7fec591c1bd531edf93526d7d4fa81b8c8/Overview%20paper/Gonzales%20et%20al.%20-%202023%20-%20The%20Corpus%20of%20Singapore%20English%20Messages%20(CoSEM).pdf)).
+Please check out [our overview paper](https://github.com/wdwgonzales/CoSEM/tree/main/Overview%20paper).
 <br />
 <br />
 
