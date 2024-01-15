@@ -35,6 +35,9 @@ Under the following terms:
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
+<br />
+<br />
+
 ### Disclaimer
 The public version of the CoSEM (see 'Corpus Version' below) has some limitations. For example, based on our initial assessment, the scrubber does its work for the most part. However, we note that it scrubs non-name information that might be important for analyses. For example, (a) below becomes (b). Furthermore, we observed that it only scrubs information from the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package. As such, we recommend that you exercise caution in using the public version of the corpus. We put forward our intention of contributing to the scholarly community by showing whatever we can at this time. We thank you for your patience.
 
