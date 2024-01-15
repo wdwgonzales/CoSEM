@@ -19,6 +19,22 @@ The Corpus of Singapore English Messages (CoSEM) is a corpus of online text mess
 <br />
 <br />
 
+### License
+The CoSEM follows the CC BY-NC-SA 4.0 License, meaning that you are free to:  
+
+- Share — copy and redistribute the material in any medium or format; 
+- Adapt — remix, transform, and build upon the material. 
+
+The licensor cannot revoke these freedoms as long as you follow the license terms. 
+
+Under the following terms:
+
+- Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- Non-Commercial — You may not use the material for commercial purposes.
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
 ### Disclaimer
 The public version of the CoSEM (see 'Corpus Version' below) has some limitations. For example, based on our initial assessment, the scrubber does its work for the most part. However, we note that it scrubs non-name information that might be important for analyses. For example, (a) below becomes (b). Furthermore, we observed that it only scrubs information from the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package. As such, we recommend that you exercise caution in using the public version of the corpus. We put forward our intention of contributing to the scholarly community by showing whatever we can at this time. We thank you for your patience.
 
