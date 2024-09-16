@@ -106,6 +106,7 @@ The corpus can be accessed [here](https://github.com/wdwgonzales/CoSEM/blob/main
 - [Asst. Prof. Wilkinson Daniel Wong GONZALES](https://www.wdwgonzales.com "Asst. Prof. Wilkinson Daniel Wong GONZALES") (The Chinese University of Hong Kong, Hong Kong SAR, People's Republic of China) - Database Manager, Data Analyst
 - [Jun Jie LIM](https://limjunjie.com "Jun Jie LIM") (University of California, San Diego, USA)
 - Mohamed Hafiz Bin MOHAMED JURAIMI (National University of Singapore, Singapore)
+- [Asst. Prof. Nick HUANG](https://discovery.nus.edu.sg/16346-nick-huang) (National University of Singapore, Singapore)
 
 <br />
 <br />
@@ -162,6 +163,10 @@ https://doi.org/10.1017/S1360674320000453
 
 3. Hiramoto, Mie,  Wilkinson Daniel Wong Gonzales, Jakob Leimgruber, Jessica Choo, Junjie Lim. 2022. From Malay to Colloquial Singapore English: A case study of sentence-final particle sia. In A. Ngefac, H. Wolf & T. Hoffmann (eds.) _World Englishes and creole languages today: Existing paradigms and current trends in action_, 117-130. Lincom. https://lincom-shop.eu/LSEL-24-World-Englishes-and-Creole-Languages-Today/en
 
+4. Hafiz, Mohamed, Hiramoto, Mie, Leimgruber, Jakob R. E., Gonzales, Wilkinson Daniel Wong & Lim, Jun Jie. 2024. Sociolinguistic variation in Colloquial Singapore English sia. World Englishes, weng.12700, https://doi.org/10.1111/weng.12700
+
+5. Lim, Jun Jie, Hafiz, Mohamed, Gonzales, Wilkinson Daniel Wong & Hiramoto, Mie. 2024. Adverbial confirm in colloquial Singapore English: insights from a text message corpus.
+
 ```
 
 @article{leimgruber_ethnic_2020,
@@ -198,6 +203,34 @@ https://doi.org/10.1017/S1360674320000453
 	year = {2022},
 	pages = {1--14},
 }
+
+
+@article{hafiz_sociolinguistic_2024,
+	title = {Sociolinguistic variation in {Colloquial} {Singapore} {English} \textit{sia}},
+	copyright = {CC0 1.0 Universal Public Domain Dedication},
+	issn = {0883-2919, 1467-971X},
+	url = {https://onlinelibrary.wiley.com/doi/10.1111/weng.12700},
+	doi = {10.1111/weng.12700},
+	abstract = {Colloquial Singapore English (CSE), also known as ‘Singlish’, features a wide range of sentence-final particles (SFP) influenced by local languages such as Hokkien, Cantonese, Mandarin and Malay. This study focuses on the SFP SIA, a relatively new and less-explored particle with Malay roots. We examine SIA and its variants (sia, sial, siak and siol) using data from the Corpus of Singapore English Messages, a 6.9-million-word text-message corpus from 2016 to 2022.},
+	language = {en},
+	urldate = {2024-07-22},
+	journal = {World Englishes},
+	author = {Hafiz, Mohamed and Hiramoto, Mie and Leimgruber, Jakob R. E. and Gonzales, Wilkinson Daniel Wong and Lim, Jun Jie},
+	month = jul,
+	year = {2024},
+	pages = {weng.12700},
+	file = {Hafiz et al. - 2024 - Sociolinguistic variation in Colloquial Singapore .pdf:/Users/wdwg/Zotero/storage/SC5INIFV/Hafiz et al. - 2024 - Sociolinguistic variation in Colloquial Singapore .pdf:application/pdf},
+}
+
+@article{lim_adverbial_nodate,
+	title = {Adverbial confirm in colloquial {Singapore} {English}: insights from a text message corpus},
+	copyright = {All rights reserved},
+	abstract = {Despite its innovative, salient, and robust usage in Colloquial Singapore English (CSE), the adverbial use of confirm has largely gone unnoticed. In this paper, we provide morphosyntactic and semantic evidence to show that adverbial confirm behaves like a strongly subjective speaker-oriented adverb (SpOA). We argue that adverbial confirm developed as a result of contact with the Mandarin adverbial kending, likely due to English–Mandarin bilin­ gualism amongst Chinese Singaporeans, although its use has pro­ liferated throughout the general CSE-speaking population. Quantitatively, adverbial confirm emerges as the most frequently used SpOA when compared to surface-semantically equivalent strongly subjective SpOAs, such as definitely, sure, for sure and surely. The results suggest an increase in preference by CSE speak­ ers to use confirm to express strong speaker certainty.},
+	language = {en},
+	author = {Lim, Jun Jie and Hafiz, Mohamed and Gonzales, Wilkinson Daniel Wong and Hiramoto, Mie},
+	file = {Lim et al. - Adverbial confirm in colloquial Singapore English.pdf:/Users/wdwg/Zotero/storage/EI9PL8LP/Lim et al. - Adverbial confirm in colloquial Singapore English.pdf:application/pdf},
+}
+
 
 ```
 <br />
