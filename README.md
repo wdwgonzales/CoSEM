@@ -81,24 +81,15 @@ Every line of utterance has been tagged with an identifier tag. The tag format a
 <br />
 
 #### Corpus Version
-The current public version stands at 10.9 million tokens (as of September 17, 2023). It is anonymized using the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package as well as customized `RegEx` scripts. As with any type of automated scrubbing, there is a chance that some utterances are not properly scrubbed, in which case, we ask the corpus users to exercise tact in using the data, anonymizing unscrubbed private information if they intend to present examples that contain them. 
+The current public version stands at 6.9 million tokens (as of November 8, 2024). This version is cleaned for duplicates and does not treat punctuation as a token/word. It is anonymized using the [`scrubadub`](https://scrubadub.readthedocs.io/en/stable/ "scrubadub") package as well as customized `RegEx` scripts. As with any type of automated scrubbing, there is a chance that some utterances are not properly scrubbed, in which case, we ask the corpus users to exercise tact in using the data, anonymizing unscrubbed private information if they intend to present examples that contain them. 
 
 <br />
 
-The corpus can be accessed [here](https://github.com/wdwgonzales/CoSEM/blob/main/Corpus/COSEM_v4_publicrelease_SEP172023.zip). You need to click on 'Download' from the upper right menu or "View raw" in the center. The file is in `zip` format. It needs to be decompressed/unzipped before use.
+The corpus can be accessed in the main directory. You need to click on 'Download' from the upper right menu or "View raw" in the center. The file is in `zip` format. It needs to be decompressed/unzipped before use.
 
 <br />
 
 
-
-##### Plans for future versions
-
-- more targetted scrubs
-- reduction of mis-scrubbed tokens
-- increased size
-
-<br />
-<br />
 
 ### Team
 - [Assoc. Prof. Mie HIRAMOTO](https://profile.nus.edu.sg/fass/ellmh/ "Assoc. Prof. Mie HIRAMOTO") (National University of Singapore, Singapore) - Principal Investigator
