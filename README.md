@@ -89,6 +89,30 @@ The corpus can be accessed in the main directory. You need to click on 'Download
 
 <br />
 
+## CoSEM to AntConc Metadata Mapper
+
+The [**CoSEM to AntConc Metadata Mapper**](https://github.com/Roborhugo/CoSEM-to-AntConc-Metadata-Mapper), developed by Hugo Andersson, is a third-party tool designed to facilitate the integration of metadata from the **Corpus of Singapore English Messages (CoSEM)** into **AntConc** for enhanced linguistic analysis. This tool provides a streamlined approach to utilizing CoSEM metadata—such as gender, nationality, and age—for advanced searches within AntConc.
+
+### Purpose and Functionality
+The CoSEM corpus comprises nearly 900,000 lines of text messages, accompanied by metadata that captures key demographic attributes of the sender. However, importing and utilizing this metadata within AntConc has been challenging. Andersson’s tool automates the reformatting required to load the corpus into AntConc while preserving demographic metadata, enabling users to filter search results based on sender characteristics.
+
+### Key Features
+- **Automated Metadata Processing**: Reformats CoSEM files for seamless AntConc integration.
+- **SQL Query Generation**: Simplifies the creation of queries to filter messages by age, nationality, race, gender, and year.
+- **Shell Script Execution**: A single command (`sh run_formatting.sh`) processes the corpus efficiently.
+- **AntConc Compatibility**: Ensures metadata can be utilized for advanced search functionalities.
+
+This tool significantly improves metadata utilization, making CoSEM a more powerful resource for linguistic research.
+
+### Repository
+For more details and access to the tool, visit the GitHub repository: [CoSEM to AntConc Metadata Mapper](https://github.com/Roborhugo/CoSEM-to-AntConc-Metadata-Mapper).
+
+### Citation
+```
+Andersson, H. (n.d.). *CoSEM to AntConc Metadata Mapper* [Computer software]. GitHub. Retrieved from https://github.com/Roborhugo/CoSEM-to-AntConc-Metadata-Mapper
+```
+
+<br />
 
 
 ### Team
