@@ -272,7 +272,8 @@ _(In alphabetical order of their family names, in upper case)_
 - PAK Yongkang Vincent
 - Luqman Aqil Bin ROZMAN
 - YEO Rei-Chi Lauren
-
+- Athena CHOO
+  
 <br />
 <br />
 
@@ -290,3 +291,5 @@ _(In alphabetical order of their family names, in upper case)_
 - TEN Ting Kai
 - Francisca Ann VINCENT
 - YEO Ming Wen, Megan Maria
+- BOEY Yui Keat Ryan-Ashleigh
+- Chloe KWEK Wing Yen
