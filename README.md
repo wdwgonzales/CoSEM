@@ -264,6 +264,7 @@ Principal Investigator: Assoc. Prof. Mie Hiramoto
 _(In alphabetical order of their family names, in upper case)_
 
 - Latané BULLOCK
+- Athena CHOO
 - CHOO Xue Ming Jessica
 - Sydelle D SOUZA
 - Aura Valentine EDEN
@@ -272,7 +273,6 @@ _(In alphabetical order of their family names, in upper case)_
 - PAK Yongkang Vincent
 - Luqman Aqil Bin ROZMAN
 - YEO Rei-Chi Lauren
-- Athena CHOO
   
 <br />
 <br />
@@ -281,7 +281,9 @@ _(In alphabetical order of their family names, in upper case)_
 _(In alphabetical order of their family names, in upper case)_
 
 - CHANG Wei Xing
+- BOEY Yui Keat Ryan-Ashleigh
 - Athena CHOO
+- Chloe KWEK Wing Yen
 - LIN Taohai
 - MAK Kai Feng Darren
 - Mohamed Hafiz Bin MOHAMED JURAIMI
@@ -291,5 +293,5 @@ _(In alphabetical order of their family names, in upper case)_
 - TEN Ting Kai
 - Francisca Ann VINCENT
 - YEO Ming Wen, Megan Maria
-- BOEY Yui Keat Ryan-Ashleigh
-- Chloe KWEK Wing Yen
+
+
