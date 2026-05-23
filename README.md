@@ -292,6 +292,8 @@ _(In alphabetical order of their family names, in upper case)_
 - Reno SAM Wei Jie
 - TEN Ting Kai
 - Francisca Ann VINCENT
+- Eleanor WEE Jia Xin
 - YEO Ming Wen, Megan Maria
+- Lavonne YEW Yu Xuan Megan 
 
 
