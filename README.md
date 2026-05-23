@@ -181,7 +181,9 @@ https://doi.org/10.1017/S1360674320000453
 4. Hafiz, Mohamed, Hiramoto, Mie, Leimgruber, Jakob R. E., Gonzales, Wilkinson Daniel Wong & Lim, Jun Jie. 2024. Sociolinguistic variation in Colloquial Singapore English sia. World Englishes, weng.12700, https://doi.org/10.1111/weng.12700
 
 5. Lim, Jun Jie, Hafiz, Mohamed, Gonzales, Wilkinson Daniel Wong & Hiramoto, Mie. 2024. Adverbial confirm in colloquial Singapore English: insights from a text message corpus.
-
+6. Lim, Jun Jie, Mie Hiramoto, Jakob Leimgruber, Wilkinson Daniel Wong Gonzales. 2024. Clause-Final Adverbs in Colloquial Singapore English Revisited, Journal of English Linguistics. SAGE. https://doi.org/10.1177/00754242241278838
+7. Hiramoto, Mie, Wilkinson Daniel Wong Gonzales, Jakob R. E. Leimgruber, Jun Jie Lim, Mohamed Hafiz. 2025. Functional expansion and syntactic change in Colloquial Singapore English is it.  In Leimgruber, Rüdiger, and Leuckert (Eds). World Englishes and Social Media: Features, Identities, and Meta-Discourse. Bloomsbury. (invited chapter) https://www.bloomsbury.com/us/world-englishes-and-social-media-9781350421417/
+   
 ```
 
 @article{leimgruber_ethnic_2020,
@@ -246,6 +248,26 @@ https://doi.org/10.1017/S1360674320000453
 	file = {Lim et al. - Adverbial confirm in colloquial Singapore English.pdf:/Users/wdwg/Zotero/storage/EI9PL8LP/Lim et al. - Adverbial confirm in colloquial Singapore English.pdf:application/pdf},
 }
 
+@article{LimEtAl2024ClauseFinalAdverbs,
+  author    = {Lim, Jun Jie and Hiramoto, Mie and Leimgruber, Jakob and Gonzales, Wilkinson Daniel Wong},
+  title     = {Clause-Final Adverbs in Colloquial Singapore English Revisited},
+  journal   = {Journal of English Linguistics},
+  publisher = {SAGE},
+  year      = {2024},
+  doi       = {10.1177/00754242241278838},
+  url       = {https://doi.org/10.1177/00754242241278838}
+}
+
+@incollection{HiramotoEtAl2025IsIt,
+  author    = {Hiramoto, Mie and Gonzales, Wilkinson Daniel Wong and Leimgruber, Jakob R. E. and Lim, Jun Jie and Hafiz, Mohamed},
+  title     = {Functional Expansion and Syntactic Change in Colloquial Singapore English \textit{is it}},
+  booktitle = {World Englishes and Social Media: Features, Identities, and Meta-Discourse},
+  editor    = {Leimgruber, Jakob R. E. and R{\"u}diger, Janina and Leuckert, Sven},
+  publisher = {Bloomsbury},
+  year      = {2025},
+  note      = {Invited chapter},
+  url       = {https://www.bloomsbury.com/us/world-englishes-and-social-media-9781350421417/}
+}
 
 ```
 <br />
